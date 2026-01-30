@@ -7,4 +7,6 @@ To set this repo locally follow the steps:
 3. Simply click on "Go Live" (if using live serer) or run the file in your browser
 4. My highly classified resume will open
 
+if you can do download it locally, simply go into the html file and copy the entire html code and run it locally through live server or vscode
+
 THANK YOU :)
